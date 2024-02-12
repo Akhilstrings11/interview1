@@ -1,0 +1,50 @@
+form label,input{
+    margin-top: 10px;
+}
+
+input{
+    padding: 5px;
+    background-color: rgb(240, 239, 239);
+    border: solid black 0.5px;
+}
+
+form{
+    text-align: center;
+}
+
+.button{
+    border: solid white 0.5px;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 8px 10px 8px 10px;
+    margin: 5px;
+    color: wheat;
+    transition: 0.3s;
+}
+
+.button:hover{
+    color: blue;
+    background-color: white;
+    border: solid blue 0.5px;
+}
+
+.col{
+    padding: 10px;
+}
+
+svg{
+    color: white;
+}
+
+.stars{
+    display: flex;
+}
+
+.stars p{
+
+}
+
+.stars svg{
+    color: yellow;
+    margin: 3px 5px 0px 0px;
+}
